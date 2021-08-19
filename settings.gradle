@@ -1,0 +1,3 @@
+include ':SecurityLibaray'
+include ':app'
+rootProject.name = "Encryption"
