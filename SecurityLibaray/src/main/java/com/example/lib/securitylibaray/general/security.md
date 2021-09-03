@@ -1,6 +1,5 @@
 # 加密
 
-[点击下载对应版本的Security](http://192.168.180.26:50151/agreesdk/android/security/)
 ## 基座集成
 
 1.将android包下的aar复制到项目下app/lib下，
